@@ -14,3 +14,9 @@ Python 3.6 is used during development and following libraries are required to ru
 # Dataset
 The Human Activity Recognition Using Smartphones Data Set  used for model training, can be downloaded from the following [link](https://archive.ics.uci.edu/ml/datasets/human+activity+recognition+using+smartphones#)
 
+# Team Members
+
+* Aggeliki Siampli (Developer)
+* Lia Yfanti (Data Scientist)
+* Dimitris Damtsias (Data Engineer)
+* Manos Nikolopoulos (Business Analyst)
